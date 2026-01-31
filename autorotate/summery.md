@@ -31,3 +31,5 @@ Xiaomi Pad 6
 [Session 1](https://github.com/Xelef2000/pipa-porting-protocol/blob/main/autorotate/autorotate.md)
 
 [Session 2](https://github.com/Xelef2000/pipa-porting-protocol/blob/main/autorotate/autorotate2.md)
+
+[Session 3](https://github.com/Xelef2000/pipa-porting-protocol/blob/main/autorotate/autorotate3.md)
